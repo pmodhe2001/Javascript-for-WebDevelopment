@@ -1,0 +1,33 @@
+#toggle{
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+    height: 140px;
+    width: 40px;
+    margin: 50px auto;
+}
+
+#cicle{
+    width: 38px;
+    height: 38px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 1px;
+    transition-duration: 1s;
+    margin-left: 1px;
+}
+
+h1 {
+    font-size: 5rem;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.color-white {
+    color: white;
+}
+
+.bck-color-black {
+    background-color: black;
+}
